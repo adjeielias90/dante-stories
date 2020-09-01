@@ -36,7 +36,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'react-rails'
 gem "jquery-rails", "~> 4.3"
 #gem 'bootstrap-sass'
-gem 'bootstrap', '~> 4.1.3'
+gem 'bootstrap', '~> 4.3.1'
 gem 'font-awesome-sass','~> 5.3.1'
 
 # AUTH
